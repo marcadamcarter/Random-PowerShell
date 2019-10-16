@@ -1,8 +1,8 @@
 <#
-	.SYNOPSIS
-		Displays a list of hyperlinks from a web page.
+    .SYNOPSIS
+        Displays a list of hyperlinks from a web page.
 	
-	.DESCRIPTION
+    .DESCRIPTION
         Useful for identifying absolute hyperlinks when preparing for content migration
 
     .EXAMPLE
